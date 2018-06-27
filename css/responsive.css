@@ -4,7 +4,8 @@
   width: 90%;
   }
   #social{
-    width:82px;
+    top:82px;
+    right:4px;
   }
 }
 @media only screen and (min-width:900px){
